@@ -17,6 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion", "src\Aplicacio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "test\TestApi\TestApi.csproj", "{EB13159F-42A7-42A5-910E-0B35C3A7FB18}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{03C2E77B-01E6-4E68-868A-F0C55D7F4785}"
+	ProjectSection(SolutionItems) = preProject
+		Database\Inmobiliaria.bk = Database\Inmobiliaria.bk
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
